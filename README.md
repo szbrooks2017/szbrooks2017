@@ -3,7 +3,6 @@
 - I enjoy working with Unity/C# and WebXR/Javascript.
 - I've been to 15 National Parks.
 - I plan to pick up C++ and Unreal this year!
-- I'm a Unity Certified Game Developer.
 
 ### Languages and Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
